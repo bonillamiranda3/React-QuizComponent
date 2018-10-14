@@ -7,7 +7,6 @@ class Quiz extends Component {
     super(props)
     this.state = { quiz_positions: 1 }
 
-  }
 }
 
 render() {
